@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="system/bt" name="platform_system_bt" remote="lean" />
+    <project path="system/core" name="platform_system_core" remote="lean" />
+    <project path="system/extras" name="platform_system_extras" remote="lean" />
+    <project path="system/qcom" name="platform_system_qcom" remote="lean" />
+    <project path="system/sepolicy" name="platform_system_sepolicy" remote="lean" />
+    <project path="system/vold" name="platform_system_vold" remote="lean" />
+    <project path="system/tools/dtbtool" name="platform_system_tools_dtbtool" remote="lean" />
+
+  </manifest>
