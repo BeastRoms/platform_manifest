@@ -8,7 +8,7 @@
   <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="lineage" />
   <project path="hardware/qcom/power" name="platform_hardware_qcom_power" remote="lean" revision="lean-9.x" />
   <project path="hardware/qcom/thermal" name="platform_hardware_qcom_thermal" remote="lean" revision="lean-9.x" />
-  <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="lineage" />
+  <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="lean" revision="lean-9.x" />
   <project path="hardware/qcom/vr" name="platform_hardware_qcom_vr" remote="lean" revision="lean-9.x" />
  <!-- <project path="hardware/qcom/audio-caf/msm8916" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="lean" revision="lean-9.x-caf-8916" />
   <project path="hardware/qcom/audio-caf/msm8974" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="lean" revision="lean-9.x-caf-8974" />
@@ -25,7 +25,7 @@
   <project path="hardware/qcom/bt" name="platform_hardware_qcom_bt" remote="lean" revision="lean-9.x" />
   <project path="hardware/qcom/bt-caf" name="platform_hardware_qcom_bt" remote="lean" revision="lean-9.x-caf" />
   <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" remote="lean" />
-  <project path="hardware/qcom/wlan-caf" name="platform_qcom_wlan" remote="lean" revision="lean-9.x-caf" />
+  <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" remote="lean" revision="lean-9.x-caf" />
   <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="lean" />
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="lean" />
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="lean" />
