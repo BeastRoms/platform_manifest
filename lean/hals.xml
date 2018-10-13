@@ -27,6 +27,7 @@
   <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" remote="lean" />
   <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" remote="lean" revision="lean-9.x-caf" />
   <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="lean" />
+  <project path="hardware/lean/interfaces" name="platform_hardware_lean_interfaces" groups="pdk" remote="lean" />
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="lean" />
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="lean" />
   <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="lean" />
