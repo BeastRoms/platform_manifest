@@ -10,5 +10,6 @@
   <project path="external/perfetto" name="platform_external_perfetto" remote="lean" />
   <project path="external/selinux" name="platform_external_selinux" remote="lean" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="lean" />
+  <project path="external/json-c" name="platform_external_json-c" remote="lean" />
 
 </manifest>
