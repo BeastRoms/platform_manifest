@@ -46,6 +46,7 @@
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="kernel/tests" />
   <remove-project name="platform/prebuilts/build-tools" />
+  <remove-project name="platform/prebuilts/clang/host/linux-x86" />
 
   <!-- External repos -->
   <remove-project name="platform/external/tinycompress" />
