@@ -40,3 +40,4 @@ Build command is
 
 Official supported Devices
 -----------------
+To Maintain A Official Devices Heads towrds to https://github.com/LeanOS-Project/Official-Tag.git
