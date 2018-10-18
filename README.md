@@ -30,13 +30,13 @@ repo init -u https://github.com/LeanOS-Project/platform_manifest.git -b lean-9.x
 Then to sync up:
 ----------------
 
-    repo sync -j8
+    repo sync -c -j8 --force-sync --no-clone-bundle --no-tags
 
 Build command is
 ----------------
     . build/envsetup.sh
     lunch whyred_userdebug
-    make -j 7 otapackage
+    make bacon lean
 
 Official supported Devices
 -----------------
