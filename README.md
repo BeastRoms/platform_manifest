@@ -38,6 +38,6 @@ Build command is
     lunch whyred_userdebug
     make bacon lean
 
-Official supported Devices
+Officialy supported devices
 -----------------
-To Maintain A Official Devices Heads towrds to https://github.com/LeanOS-Project/Official-Tag.git
+To maintain a device officialy, go to https://github.com/LeanOS-Project/Official-Tag.git
