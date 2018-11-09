@@ -3,5 +3,6 @@
 
   <project path="device/qcom/sepolicy" name="platform_device_qcom_sepolicy" remote="lean" />
   <project path="device/qcom/sepolicy-legacy" name="platform_device_qcom_sepolicy-legacy" remote="lean" />
+  <project path="device/lean/sepolicy" name="platform_device_lean_sepolicy" remote="lean" />
 
 </manifest>
