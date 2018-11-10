@@ -17,6 +17,7 @@
     
     <project path="packages/providers/MediaProvider" name="platform_packages_providers_MediaProvider" remote="lean" />
     <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="lean" />
+    <project path="packages/providers/AmbientPlayHistoryProvider" name="platform_packages_providers_AmbientPlayHistoryProvider" remote="lean" />
     <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="lean" />
     <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="lean" />	
     <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" remote="lean" />
