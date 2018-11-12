@@ -47,6 +47,7 @@ For maintainership refer [**HERE**](https://github.com/LeanOS-Project/Official-T
  * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
  * [**AospExtended**](https://github.com/AospExtended)
  * [**CypherOS**](https://github.com/CypherOS)
+ * [**Xtended**](https://github.com/Xtended-Pie)
 
 ---------------------------------------------------------------------------------------
 
