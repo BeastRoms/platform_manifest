@@ -1,43 +1,52 @@
-LEAN OS INITIAL MANIFEST RELEASE (WIP)
-====================
+<p align="center">
+<img src="https://avatars1.githubusercontent.com/u/44024670?s=400&u=c5f798ffaa66ab14931176d77077fd2cd5bb83ca&v=4" >
+</p>
 
-Create dirs, and install soft, libs
-----------------------------------
+---------------------------------------------------------------------------------------
+ Getting Started:
+ ==============
 
-    sudo su
-    apt-get update
-    apt-get install openjdk-8-jdk
-    apt-get install repo git-core gnupg flex bison gperf build-essential zip curl zlib1g-dev gcc-multilib g++-multilib libc6-dev-i386 lib32ncurses5-dev x11proto-core-dev libx11-dev lib32z-dev libgl1-mesa-dev libxml2-utils xsltproc unzip
-    exit
+To get started with manifest/LeanOS-Project, you'll need to get familiar with [Repo](https://source.android.com/source/using-repo.html) and Version Control with [Git](https://source.android.com/source/version-control.html).
 
-Create lean folder
-----------------------
+To initialize your local repository, use a command like this:
 
-    mkdir ~/LEAN
-    cd ~/LEAN
-
-GIT config (nickname, e-mail)
------------------------------
-
-    git config --global user.email "mail@domain.com"
-    git config --global user.name "login"
-
-To initialize your local repository use
----------------------------------------
-
+```bash
 repo init -u https://github.com/LeanOS-Project/platform_manifest.git -b lean-9.x
 
+```
+
 Then to sync up:
-----------------
 
-    repo sync -c -j8 --force-sync --no-clone-bundle --no-tags
+```
+repo sync -c -f --force-sync --optimized-fetch --no-tags --no-clone-bundle --prune -j8
+```
 
-Build command is
-----------------
-    . build/envsetup.sh
-    lunch whyred_userdebug
-    make bacon lean
+---------------------------------------------------------------------------------------
+ Compilation of LeanOS:
+ ==================
 
-Officialy supported devices
------------------
-To maintain a device officialy, go to https://github.com/LeanOS-Project/Official-Tag.git
+From root directory of Project, perform following commands in terminal
+
+```bash
+$ . build/envsetup.sh
+$ lunch lean_$device-userdebug
+$ mka bacon lean
+```
+
+For maintainership refer [**HERE**](https://github.com/LeanOS-Project/Official-Tag.git)
+
+---------------------------------------------------------------------------------------
+ Credits:
+ =======
+
+ * [**LineageOS**](https://github.com/LineageOS)
+ * [**AOSiP**](https://github.com/AOSiP)
+ * [**DotOS**](https://github.com/DotOS)
+ * [**ArrowOS**](https://github.com/ArrowOS)
+ * [**PixelExperience**](https://github.com/PixelExperience)
+ * [**DirtyUnicorns**](https://github.com/dirtyunicorns)
+ * [**AospExtended**](https://github.com/AospExtended)
+ * [**CypherOS**](https://github.com/CypherOS)
+
+---------------------------------------------------------------------------------------
+
