@@ -14,7 +14,7 @@
     <project path="packages/apps/Messaging" name="platform_packages_apps_Messaging" remote="lean" />	
 	
     <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" remote="lean" />
-    
+    <project path="packages/apps/Gallery2" name="platform_packages_apps_Gallery2" remote="lean" />   
     <project path="packages/providers/MediaProvider" name="platform_packages_providers_MediaProvider" remote="lean" />
     <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="lean" />
     <project path="packages/providers/AmbientPlayHistoryProvider" name="platform_packages_providers_AmbientPlayHistoryProvider" remote="lean" />
