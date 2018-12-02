@@ -8,5 +8,5 @@
     <project path="system/sepolicy" name="platform_system_sepolicy" remote="lean" />
     <project path="system/vold" name="platform_system_vold" remote="lean" />
     <project path="system/tools/dtbtool" name="platform_system_tools_dtbtool" remote="lean" />
-
+    <project path="system/update_engine" name="platform_system_update_engine" groups="pdk" remote="lean" />
   </manifest>
