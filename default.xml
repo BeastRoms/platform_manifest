@@ -705,6 +705,6 @@
 
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
-  <!-- Manifest for LeanOS -->
-  <include name="lean.xml" />
+  <!-- Manifest for BeastROMs -->
+  <include name="beast.xml" />
 </manifest>

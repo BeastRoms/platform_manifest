@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="build/make" name="platform_build" remote="lean">
+    <project path="build/make" name="platform_build" remote="beast">
         <copyfile src="core/root.mk" dest="Makefile" />
-        <linkfile src="CleanSpec.mk" dest="build/CleanSpec.mk" />
+        <linkfile src="CbeastSpec.mk" dest="build/CbeastSpec.mk" />
         <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
         <linkfile src="core" dest="build/core" />
         <linkfile src="envsetup.sh" dest="build/envsetup.sh" />
@@ -11,9 +11,9 @@
         <linkfile src="tools" dest="build/tools" />
     </project>
   
-    <project path="bionic" name="platform_bionic" remote="lean" />
-    <project path="bootable/recovery" name="platform_bootable_recovery" remote="lean"/>
-    <project path="build/soong" name="platform_build_soong" remote="lean">
+    <project path="bionic" name="platform_bionic" remote="beast" />
+    <project path="bootable/recovery" name="platform_bootable_recovery" remote="beast"/>
+    <project path="build/soong" name="platform_build_soong" remote="beast">
         <linkfile src="root.bp" dest="Android.bp" />
         <linkfile src="bootstrap.bash" dest="bootstrap.bash" />
     </project>

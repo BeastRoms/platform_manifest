@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="hardware/qcom/audio" name="platform_hardware_qcom_audio" remote="beast" />
+  <project path="hardware/qcom/camera" name="platform_hardware_qcom_camera" remote="beast" />
+  <project path="hardware/qcom/display" name="platform_hardware_qcom_display" remote="beast" />
+  <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="beast" />
+  <project path="hardware/qcom/media" name="platform_hardware_qcom_media" remote="beast" />
+  <project path="hardware/qcom/power" name="platform_hardware_qcom_power" remote="beast" />
+  <project path="hardware/qcom/thermal" name="platform_hardware_qcom_thermal" remote="beast" />
+  <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="beast" />
+  <project path="hardware/qcom/vr" name="platform_hardware_qcom_vr" remote="beast" />
+  <project path="hardware/qcom/audio-caf/msm8996" name="android_hardware_qcom_audio" groups="qcom,qcom_audio" remote="beast" revision="pie-caf-8996" />
+  <project path="hardware/qcom/display-caf/msm8996" name="android_hardware_qcom_display" groups="pdk,qcom,qcom_display" remote="beast" revision="pie-caf-8996" />
+  <project path="hardware/qcom/media-caf/msm8996" name="android_hardware_qcom_media" groups="qcom" remote="beast" revision="pie-caf-8996" />
+  <project path="hardware/qcom/bt" name="platform_hardware_qcom_bt" remote="beast" />
+  <project path="hardware/qcom/bt-caf" name="platform_hardware_qcom_bt" remote="beast" revision="pie-caf" />
+  <project path="hardware/qcom/gps" name="platform_hardware_qcom_gps" remote="beast" />
+  <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" remote="beast" revision="pie-caf" />
+  <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="beast" />
+  <project path="hardware/beast/interfaces" name="platform_hardware_beast_interfaces" groups="pdk" remote="beast" />
+  <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="beast" />
+  <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="beast" />
+  <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="beast" />
+  <project path="hardware/ril" name="platform_hardware_ril" remote="beast" />
+  <project path="hardware/ril-caf" name="platform_hardware_ril" remote="beast" revision="pie-caf" />  
+
+  </manifest>
