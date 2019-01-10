@@ -7,7 +7,7 @@ To get started with manifest/BeastROMs, you'll need to get familiar with [Repo](
 To initialize your local repository, use a command like this:
 
 ```bash
-repo init -u https://github.com/BeastRoms/manifest.git -b pie
+repo init -u https://github.com/BeastRoms/platform_manifest.git -b pie
 
 ```
 
