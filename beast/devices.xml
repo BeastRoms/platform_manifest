@@ -2,7 +2,6 @@
 <manifest>
 
   <project path="device/qcom/sepolicy" name="platform_device_qcom_sepolicy" remote="beast" />
-  <project path="device/qcom/sepolicy-legacy" name="platform_device_qcom_sepolicy-legacy" remote="beast" />
   <project path="device/beast/sepolicy" name="platform_device_beast_sepolicy" remote="beast" />
 
 </manifest>

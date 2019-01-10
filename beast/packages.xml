@@ -7,10 +7,9 @@
     <project path="packages/apps/DocumentsUI" name="platform_packages_apps_DocumentsUI" remote="beast" />
     <project path="packages/apps/FMRadio" name="platform_packages_apps_FMRadio" remote="beast" />
     <project path="packages/apps/Launcher3" name="platform_packages_apps_Launcher3" remote="beast" />
-    <project path="vendor/MiuiCamera" name="platform_vendor_MiuiCamera" remote="beast" />
     <project path="packages/apps/PackageInstaller" name="platform_packages_apps_PackageInstaller" remote="beast" />
     <project path="packages/apps/Settings" name="platform_packages_apps_Settings" remote="beast" />
-    <project path="packages/apps/Lean" name="platform_packages_apps_Lean" remote="beast" />
+    <project path="packages/apps/Beast" name="platform_packages_apps_Beast" remote="beast" />
     <project path="packages/apps/Messaging" name="platform_packages_apps_Messaging" remote="beast" />	
     <project path="packages/apps/DeskClock" name="platform_packages_apps_DeskClock" remote="beast" />	
     <project path="packages/inputmethods/LatinIME" name="platform_packages_inputmethods_LatinIME" remote="beast" />
@@ -19,6 +18,7 @@
     <project path="packages/providers/MediaProvider" name="platform_packages_providers_MediaProvider" remote="beast" />
     <project path="packages/providers/DownloadProvider" name="platform_packages_providers_DownloadProvider" remote="beast" />
     <project path="packages/providers/AmbientPlayHistoryProvider" name="platform_packages_providers_AmbientPlayHistoryProvider" remote="beast" />
+    <project path="packages/resources/devicesettings" name="platform_packages_resources_devicesettings" remote="beast" />
     <project path="packages/services/Telephony" name="platform_packages_services_Telephony" remote="beast" />
     <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="beast" />	
     <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" remote="beast" />
