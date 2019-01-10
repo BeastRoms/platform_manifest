@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-    <project path="build/make" name="platform_build" remote="beast">
+    <project path="build/make" name="platform_build_make" remote="beast">
         <copyfile src="core/root.mk" dest="Makefile" />
         <linkfile src="CbeastSpec.mk" dest="build/CbeastSpec.mk" />
         <linkfile src="buildspec.mk.default" dest="build/buildspec.mk.default" />
