@@ -22,4 +22,5 @@
     <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="beast" />	
     <project path="packages/apps/OmniStyle" name="platform_packages_apps_OmniStyle" remote="beast" />
     <project path="packages/apps/WeatherClient" name="platform_packages_apps_WeatherClient" remote="beast" />
+    <project path="packages/apps/Updates" name="platform_packages_apps_Updates" remote="beast" />
 </manifest>
