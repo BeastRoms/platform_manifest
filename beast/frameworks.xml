@@ -4,6 +4,7 @@
     <project path="frameworks/av" name="platform_frameworks_av" remote="beast" />
     <project path="frameworks/base" name="platform_frameworks_base" remote="beast" />
     <project path="frameworks/compile/mclinker" name="platform_frameworks_compile_mclinker" remote="beast" />
+    <project path="frameworks/opt/net/ims" name="platform_frameworks_opt_net_ims" remote="beast" />
     <project path="frameworks/opt/net/wifi" name="platform_frameworks_opt_net_wifi" remote="beast" />
     <project path="frameworks/opt/telephony" name="platform_frameworks_opt_telephony" remote="beast" />
     <project path="frameworks/native" name="platform_frameworks_native" remote="beast" />
