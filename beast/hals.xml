@@ -19,7 +19,6 @@
   <project path="hardware/qcom/wlan" name="platform_hardware_qcom_wlan" remote="beast" />
   <project path="hardware/qcom/wlan-caf" name="platform_hardware_qcom_wlan" remote="beast" revision="pie-caf" />
   <project path="hardware/interfaces" name="platform_hardware_interfaces" remote="beast" />
-  <project path="hardware/beast/interfaces" name="platform_hardware_beast_interfaces" groups="pdk" remote="beast" />
   <project path="hardware/libhardware" name="platform_hardware_libhardware" remote="beast" />
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="beast" />
   <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="beast" />
