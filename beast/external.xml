@@ -11,5 +11,6 @@
   <project path="external/selinux" name="platform_external_selinux" remote="beast" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="beast" />
   <project path="external/json-c" name="platform_external_json-c" remote="beast" />
+  <project path="external/skia" name="platform_external_skia" remote="beast" />
 
 </manifest>
