@@ -8,5 +8,6 @@
     <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="beast" />
     <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="beast" />
     <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="beast" />
+    <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="beast" />
 
 </manifest>
