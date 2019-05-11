@@ -5,6 +5,10 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com"
            review="https://android-review.googlesource.com/" />
+	
+  <remote name="BeastRoms-Devices"
+          fetch="https://github.com/BeastRoms-Devices"
+          revision="pie" />	   
   
   <default revision="refs/tags/android-9.0.0_r37"
            remote="aosp"
