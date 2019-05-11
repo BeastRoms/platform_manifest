@@ -23,6 +23,9 @@
   <project path="hardware/libhardware_legacy" name="platform_hardware_libhardware_legacy" remote="beast" />
   <project path="hardware/nxp/nfc" name="platform_hardware_nxp_nfc" remote="beast" />
   <project path="hardware/ril" name="platform_hardware_ril" remote="beast" />
-  <project path="hardware/ril-caf" name="platform_hardware_ril" remote="beast" revision="pie-caf" />  
+  <project path="hardware/ril-caf" name="platform_hardware_ril" remote="beast" revision="pie-caf" /> 
+
+  <!-- Hardware repos -->
+  <project path="hardware/lineage/livedisplay" name="android_hardware_lineage_livedisplay" remote="lineage" />  
 
   </manifest>
