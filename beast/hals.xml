@@ -3,6 +3,7 @@
 
   <project path="hardware/qcom/bootctrl" name="platform_hardware_qcom_bootctrl" remote="beast" />
   <project path="hardware/qcom/camera" name="platform_hardware_qcom_camera" remote="beast" />
+  <project path="hardware/qcom/data/ipacfg-mgr" name="android_hardware_qcom_data_ipacfg-mgr" remote="lineage" />
   <project path="hardware/qcom/fm" name="platform_hardware_qcom_fm" remote="beast" />
   <project path="hardware/qcom/power" name="platform_hardware_qcom_power" remote="beast" />
   <project path="hardware/qcom/thermal" name="platform_hardware_qcom_thermal" remote="beast" />
