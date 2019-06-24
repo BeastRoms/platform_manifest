@@ -5,6 +5,7 @@
   <project path="external/ant-wireless/ant_native" name="platform_external_ant-wireless_ant_native" remote="beast" />
   <project path="external/ant-wireless/ant_service" name="platform_external_ant-wireless_ant_service" remote="beast" />
   <project path="external/exfat" name="platform_external_exfat" remote="beast" />
+  <project path="external/libnfc-nxp" name="android_external_libnfc-nxp" remote="lineage" />
   <project path="external/ntfs-3g" name="platform_external_ntfs-3g" remote="beast" />
   <project path="external/libphonenumber" name="platform_external_libphonenumber" remote="beast" />
   <project path="external/perfetto" name="platform_external_perfetto" remote="beast" />
