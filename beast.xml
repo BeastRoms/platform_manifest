@@ -9,7 +9,10 @@
 
   <remote name="github"
           fetch="https://github.com/" />
-		   
+
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
+
   <!-- Removed projects -->	   
   <include name="remove.xml" />
 
