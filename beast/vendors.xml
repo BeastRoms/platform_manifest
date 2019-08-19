@@ -12,11 +12,11 @@
     <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="beast" />
     <project path="vendor/qcom/sdclang" name="platform_vendor_qcom_sdclang" remote="beast" />
 	
-    <project path="vendor/nxp/opensource/interfaces/nfc" name="android_vendor_nxp_interfaces_opensource_nfc" remote="lineage" />
-    <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="android_vendor_nxp_opensource_external_libnfc-nci" remote="lineage" />
-    <project path="vendor/nxp/opensource/commonsys/frameworks" name="android_vendor_nxp_opensource_frameworks" remote="lineage" />
-    <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="android_vendor_nxp_opensource_packages_apps_Nfc" remote="lineage" />
-    <project path="vendor/nxp/opensource/halimpl" name="android_vendor_nxp_opensource_halimpl" remote="lineage" />
-    <project path="vendor/nxp/opensource/hidlimpl" name="android_vendor_nxp_opensource_hidlimpl" remote="lineage" />
+    <project path="vendor/nxp/opensource/interfaces/nfc" name="platform_vendor_nxp_interfaces_opensource_nfc" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="platform_vendor_nxp_opensource_external_libnfc-nci" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/commonsys/frameworks" name="platform_vendor_nxp_opensource_frameworks" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="platform_vendor_nxp_opensource_packages_apps_Nfc" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/halimpl" name="platform_vendor_nxp_opensource_halimpl" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/hidlimpl" name="platform_vendor_nxp_opensource_hidlimpl" remote="beast" revision="pie-sm8150" />
 
 </manifest>
