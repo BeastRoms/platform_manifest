@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- BeastROMs remote -->
+  <remote name="beast"
+          fetch="https://github.com/BeastRoms"
+          revision="refs/heads/10"
+          sync-j="8" />
+
+  <remote name="github"
+          fetch="https://github.com/" />
+
+  <remote name="gitlab"
+          fetch="https://gitlab.com/" />
+
+  <!-- Removed projects -->	   
+  <include name="remove.xml" />
+
+  <!-- Imported projects -->
+  <include name="beast/build.xml" />
+  <include name="beast/devices.xml" />
+  <include name="beast/external.xml" />
+  <include name="beast/frameworks.xml" />
+  <include name="beast/hals.xml" />
+  <include name="beast/packages.xml" />
+  <include name="beast/prebuilts.xml" />
+  <include name="beast/system.xml" />
+  <include name="beast/vendors.xml" />
+
+</manifest>

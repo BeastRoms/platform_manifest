@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="device/qcom/sepolicy" name="platform_device_qcom_sepolicy" remote="beast" revision="pie" />
+  <project path="device/beast/sepolicy" name="platform_device_beast_sepolicy" remote="beast" revision="pie" />
+
+</manifest>

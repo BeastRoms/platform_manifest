@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+    <project path="vendor/beast" name="platform_vendor_beast" remote="beast" revision="pie" />
+    <project path="vendor/qcom/opensource/dataservices" name="platform_vendor_qcom_opensource_dataservices" remote="beast" revision="pie" />
+    <project path="vendor/qcom/opensource/cryptfs_hw" name="platform_vendor_qcom_opensource_cryptfs_hw" remote="beast" revision="pie" />
+    <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="lineage" />
+    <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="beast" revision="pie" />
+    <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="beast" revision="pie" />
+    <project path="vendor/qcom/opensource/audio" name="platform_vendor_qcom_opensource_audio" remote="beast" revision="pie" />
+    <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="beast" revision="pie" />
+    <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="beast" revision="pie" />
+    <project path="vendor/qcom/sdclang" name="platform_vendor_qcom_sdclang" remote="beast" revision="pie" />
+	
+    <project path="vendor/nxp/opensource/interfaces/nfc" name="platform_vendor_nxp_interfaces_opensource_nfc" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="platform_vendor_nxp_opensource_external_libnfc-nci" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/commonsys/frameworks" name="platform_vendor_nxp_opensource_frameworks" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/commonsys/packages/apps/Nfc" name="platform_vendor_nxp_opensource_packages_apps_Nfc" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/halimpl" name="platform_vendor_nxp_opensource_halimpl" remote="beast" revision="pie-sm8150" />
+    <project path="vendor/nxp/opensource/hidlimpl" name="platform_vendor_nxp_opensource_hidlimpl" remote="beast" revision="pie-sm8150" />
+
+</manifest>
