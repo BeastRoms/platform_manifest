@@ -22,4 +22,5 @@
     <project path="packages/services/Telecomm" name="platform_packages_services_Telecomm" remote="beast" />	
     <project path="packages/apps/Phonograph" name="platform_packages_apps_Phonograph" remote="beast" revision="pie" />
     <project path="packages/apps/MusicFX" name="platform_packages_apps_MusicFX" remote="beast" />
+    <project path="packages/apps/PermissionController" name="platform_packages_apps_PackageInstaller" remote="beast" />
 </manifest>
