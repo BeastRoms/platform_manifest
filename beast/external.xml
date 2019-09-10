@@ -5,7 +5,7 @@
   <project path="external/perfetto" name="platform_external_perfetto" remote="beast" />
   <project path="external/selinux" name="platform_external_selinux" remote="beast" />
   <project path="external/tinycompress" name="platform_external_tinycompress" remote="beast" />
-  <project path="external/json-c" name="platform_external_json-c" remote="beast" revision="pie" />
+  <project path="external/json-c" name="platform_external_json-c" remote="beast" />
   <project path="external/skia" name="platform_external_skia" remote="beast" />
   <project path="external/wpa_supplicant_8" name="platform_external_wpa_supplicant_8" remote="beast" />
 

@@ -4,9 +4,9 @@
     <project path="system/bt" name="platform_system_bt" remote="beast" />
     <project path="system/core" name="platform_system_core" remote="beast" />
     <project path="system/extras" name="platform_system_extras" remote="beast" />
-    <project path="system/qcom" name="platform_system_qcom" remote="beast" revision="pie" />
+    <project path="system/qcom" name="platform_system_qcom" remote="beast" />
     <project path="system/sepolicy" name="platform_system_sepolicy" remote="beast" />
     <project path="system/vold" name="platform_system_vold" remote="beast" />
-    <project path="system/tools/dtbtool" name="platform_system_tools_dtbtool" remote="beast" revision="pie" />
+    <project path="system/tools/dtbtool" name="platform_system_tools_dtbtool" remote="beast" />
     <project path="system/update_engine" name="platform_system_update_engine" groups="pdk" remote="beast" />
   </manifest>
