@@ -48,7 +48,6 @@
   <remove-project name="platform/bionic" />
   <remove-project name="platform/bootable/recovery" />
   <remove-project name="kernel/tests" />
-  <remove-project name="platform/prebuilts/clang/host/linux-x86" />
 
   <!-- External repos -->
   <remove-project name="platform/external/tinycompress" />
@@ -75,7 +74,6 @@
   <remove-project name="platform/frameworks/native" />
 
   <!-- Hardware repos -->
-  <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/bt" />
   <remove-project name="platform/hardware/qcom/bootctrl" />
   <remove-project name="platform/hardware/qcom/camera" />

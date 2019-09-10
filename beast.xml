@@ -23,7 +23,6 @@
   <include name="beast/frameworks.xml" />
   <include name="beast/hals.xml" />
   <include name="beast/packages.xml" />
-  <include name="beast/prebuilts.xml" />
   <include name="beast/system.xml" />
   <include name="beast/vendors.xml" />
 
