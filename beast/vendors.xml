@@ -7,7 +7,7 @@
     <project path="vendor/qcom/opensource/data-ipa-cfg-mgr" name="android_vendor_qcom_opensource_data-ipa-cfg-mgr" remote="lineage" />
     <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="beast" revision="pie" />
     <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="beast" revision="pie" />
-    <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="beast" revision="pie" />
+    <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="beast" />
     <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="beast" revision="pie" />
     <project path="vendor/qcom/sdclang" name="platform_vendor_qcom_sdclang" remote="beast" revision="pie" />
 	
