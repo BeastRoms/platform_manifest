@@ -8,8 +8,8 @@
     <project path="vendor/qcom/opensource/interfaces" name="platform_vendor_qcom_opensource_interfaces" remote="beast" revision="pie" />
     <project path="vendor/qcom/opensource/dpm" name="platform_vendor_qcom_opensource_dpm" remote="beast" revision="pie" />
     <project path="vendor/codeaurora/telephony" name="platform_vendor_codeaurora_telephony" remote="beast" />
-    <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="beast" revision="pie" />
-    <project path="vendor/qcom/sdclang" name="platform_vendor_qcom_sdclang" remote="beast" revision="pie" />
+    <project path="vendor/interfaces" name="platform_vendor_interfaces" remote="beast" />
+    <project path="vendor/qcom/sdclang" name="platform_vendor_qcom_sdclang" remote="beast" />
 	
     <project path="vendor/nxp/opensource/interfaces/nfc" name="platform_vendor_nxp_interfaces_opensource_nfc" remote="beast" revision="pie-sm8150" />
     <project path="vendor/nxp/opensource/commonsys/external/libnfc-nci" name="platform_vendor_nxp_opensource_external_libnfc-nci" remote="beast" revision="pie-sm8150" />
