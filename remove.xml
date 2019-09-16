@@ -139,6 +139,7 @@
   <remove-project name="platform/packages/apps/Terminal" />
   <remove-project name="platform/packages/apps/Gallery" />
   <remove-project name="platform/packages/apps/Gallery2" />
+  <remove-project name="platform/packages/apps/ThemePicker" />
 
   <!-- Service repos -->
   <remove-project name="platform/packages/services/Telephony" />
