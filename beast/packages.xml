@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-
+    <project path="packages/apps/BeastSettings" name="platform_packages_apps_BeastSettings" remote="beast" />
     <project path="packages/apps/Bluetooth" name="platform_packages_apps_Bluetooth" remote="beast" />
     <project path="packages/apps/Camera2" name="platform_packages_apps_Camera2" remote="beast" />
     <project path="packages/apps/Contacts" name="platform_packages_apps_Contacts" remote="beast" />
